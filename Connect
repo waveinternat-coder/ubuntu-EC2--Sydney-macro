@@ -1,0 +1,3 @@
+Once permission is fixed, connect to the instance using PowerShell:
+
+ssh -i prestashop-key.pem ubuntu@<ip>
