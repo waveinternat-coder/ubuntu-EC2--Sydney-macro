@@ -1,0 +1,2 @@
+icacls "prestashop-key.pem" /inheritance:r
+icacls "prestashop-key.pem" /grant:r "$($env:USERNAME):R"
